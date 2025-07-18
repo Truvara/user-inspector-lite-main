@@ -1,0 +1,3 @@
+# Project Description
+
+**User Inspector Lite** is a Python-based tool designed to automate the review and compliance checking of user access across multiple IT systems (Okta, Slack, Google Workspace, and HR systems like Darwinbox). It parses user data, performs compliance checks (joiners, leavers, idle users, system users), and generates detailed Excel reports summarizing findings and compliance status. The tool is intended for IT and HR teams to streamline access reviews and ensure policy adherence. 
